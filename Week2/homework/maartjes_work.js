@@ -53,7 +53,6 @@ const totalSallery = sallaryPerTask.reduce((accum, value) => accum + value, 0);
 
 console.log(totalSallery);
 
-
 function formatEuro(money) {
   return '€ ' + Number(money).toFixed(2)
 }
