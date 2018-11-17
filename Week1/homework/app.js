@@ -18,7 +18,6 @@
   ];
 
   //2.2
-  //console.log(arrayBookTitles);
 
   //2.3
 
